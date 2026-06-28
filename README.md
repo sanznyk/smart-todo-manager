@@ -99,6 +99,16 @@ http://localhost:8000/docs
 
 ---
 
+## Screenshots
+
+### Light Mode
+
+![Light Mode](screenshots/light.png)
+
+### Dark Mode
+
+![Dark Mode](screenshots/dark.png)
+
 ## 👩‍💻 Author
 
 **Sanchita Rani Nayak**
