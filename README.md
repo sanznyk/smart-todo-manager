@@ -107,7 +107,11 @@ http://localhost:8000/docs
 
 ### Dark Mode
 
-![Dark Mode](screenshots/dark.png)
+![Dark Mode](screenshots/dark-mode.png.png)
+
+### Swagger API
+
+![Swagger API](screenshots/)
 
 ## 👩‍💻 Author
 
