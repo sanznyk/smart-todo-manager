@@ -103,7 +103,7 @@ http://localhost:8000/docs
 
 ### Light Mode
 
-![Light Mode](Screenshot/light.png)
+![Light Mode](screenshots/light-mode.png.png)
 
 ### Dark Mode
 
