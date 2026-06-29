@@ -111,7 +111,7 @@ http://localhost:8000/docs
 
 ### Swagger API
 
-![Swagger API](screenshots/)
+![Swagger API](screenshots/api-docs.png.png)
 
 ## 👩‍💻 Author
 
